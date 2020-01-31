@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">BabyApp</string>
+    <string name="rhymes1">Twinkle, twinkle, little star,\n
+\t \t How I wonder what you are,\n
+Up above the world so high,\n
+\t \t Like a diamond in the sky,\n
+        twinkle, twinkle, little star,\n
+\t \t How I wonder what you are.</string>
+    <string name="rhymes2">Humpty Dumpty sat on a wall,\n
+\t \t Humpty Dumpty had a great fall,\n
+All the king’s horses and all the king’s men,\n
+\t \t Couldn’t put Humpty together again.
+</string>
+    <string name="rhymes3">Baa baa black sheep,\n
+        \t \t have you any wool?\n
+ Yes sir, yes sir, three bags full!\n
+\t \t One for the master, one for the dame,\n
+And one for the little boy who lives down the lane.
+
+</string>
+    <string name="rhymes4">Hickory dickory dock\n
+\t \t The mouse ran up the clock\n
+The clock struck one\n
+\t \t The mouse ran down\n
+Hickory dickory dock.\n
+
+\t \t Hickory dickory dock\n
+The mouse ran up the clock\n
+\t \t The clock struck two\n
+The mouse went "boo!"\n
+\t \t Hickory dickory dock.\n
+
+Three… the mouse went weeee\n
+\t \t Four…The mouse went "no more!"
+</string>
+    <string name="rhymes5">Jack and Jill went up the hill\n
+\t \t To fetch a pail of water.\n
+Jack fell down and broke his crown,\n
+\t \t And Jill came tumbling after.\n
+
+Up Jack got, and home did trot,\n
+\t \t As fast as he could caper,\n
+He went to bed to mend his head,\n
+\t \t With vinegar and brown paper. </string>
+</resources>
